@@ -6,6 +6,7 @@ I am a Human Systems Engineering student with a focus in User Experience. I am a
 
 ## User Friendly Redesign
 
+![Alt text](images/417final.png)
 I was asked to create a single page website fixed at 1280px that included:
 - Light/dark mode button
 - Contact form
@@ -16,6 +17,7 @@ I decided to redesign a website for an artist named Role Model to make it more u
 - My process: https://www.behance.net/gallery/210034949/git417final
 - Link to repository: https://github.com/jpiper5/obfuscatedFinal
 
+![Alt text](images/418final.png)
 I was asked to create a single page website fixed at 1280px that included:
 - jQuery widget/plugin
 - Ajax/API content
@@ -29,6 +31,7 @@ I chose to update my website for Role Model to fit the requirements of this proj
 
 ## Responsive Design
 
+![Alt text](images/recipe.png)
 The two websites above are fixed but I also have experience with creating responsive websites. This website shows a small, medium, and large viewport with a transition between breakpoints.
 - Link to repository: https://github.com/jpiper5/recipe
 
