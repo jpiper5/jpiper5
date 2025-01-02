@@ -14,7 +14,7 @@ I was asked to create a single page website fixed at 1280px that included:
 
 I decided to redesign a website for an artist named Role Model to make it more user friendly. The original website has a navigation that can be hard to read because of the font colors against the hero image. The tour section also includes each date of the tour, which requires users to scroll past all of them to get to the rest of the information on the home page. My redesign puts the navigation in a bar above the hero image so that it is always easy to read and the tour section shows the first three dates with an option to show more dates.
 - My process: https://www.behance.net/gallery/210034949/git417final
-- Link to repository: https://github.com/jpiper5/418Obfuscated
+- Link to repository: https://github.com/jpiper5/obfuscatedFinal
 
 I was asked to create a single page website fixed at 1280px that included:
 - jQuery widget/plugin
@@ -24,7 +24,7 @@ I was asked to create a single page website fixed at 1280px that included:
 
 I chose to update my website for Role Model to fit the requirements of this project. I kept the same user friendly elements for the navigation and tour section but added more functionality to follow the new guidelines. 
 - My process: https://www.behance.net/gallery/214154963/GIT418-Final-Project
-- Link to repository: https://github.com/jpiper5/obfuscatedFinal
+- Link to repository: https://github.com/jpiper5/418Obfuscated
 
 
 ## Responsive Design
