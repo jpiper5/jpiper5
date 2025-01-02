@@ -3,7 +3,7 @@ I am a Human Systems Engineering student with a focus in User Experience! I am a
 
 - ✨ My Behance Profile: https://www.behance.net/jessicapiper2
 - ✨ My CodePen Profile: https://codepen.io/jpiper5
-- ✨ My LinkedIn Profile: www.linkedin.com/in/jessica-piper-56682a28a
+- ✨ My LinkedIn Profile: www.linkedin.com/in/jessica-piper-5a041b2b0
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=jpiper5&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=B84925&icon_color=E97424&text_color=F2F2F2&bg_color=0,111111,333333 "my Github Stats")
 
