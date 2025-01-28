@@ -37,3 +37,7 @@ I chose to update my website for Role Model to fit the requirements of this proj
 The two websites above are fixed but I also have experience with creating responsive websites. This website shows a small, medium, and large viewport with a transition between breakpoints.
 - Link to repository: https://github.com/jpiper5/recipe
 
+## Figma Projects 
+- https://www.figma.com/design/snf9Jf7h1pgJ18JzZKOkuw/user-flow?m=auto&t=8Ov5u5NXJEv0VnHS-1
+- https://www.figma.com/design/KdIqvUf1Fpu0gu5b9kiMiZ/Untitled-(Copy)?node-id=0-1&t=3rhUKvtSEdor17kt-1
+- https://www.figma.com/design/ZpJRL4Phj8EgCcOHkdecVp/home-page-dutch?node-id=0-1&t=cm1zmqPZGQsIvSYK-1
