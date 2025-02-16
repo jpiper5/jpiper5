@@ -1,5 +1,5 @@
 ## Hi! 
-I am a Human Systems Engineering student with a focus in User Experience. I am also a SCAP scholar and I will be continuing my education with ASU by pursuing a Master's degree in User Experience in the spring of 2026. In my time at ASU I have discovered a passion for web development. I have worked with HTML and CSS for a year and started learning JavaScript over the past 3 months. I will be particitpating in a Global Career Accelerator program in the spring where I will earn a certification in HTML & CSS and JavaScript & Web Development. I have experience using tools such as CodePen, Figma, and Balsamiq. Check out my pinned repositories to see what I've been working on!
+I am a Human Systems Engineering student with a focus in User Experience. I am also a SCAP scholar and I will be continuing my education with ASU by pursuing a Master's degree in User Experience in the spring of 2026. In my time at ASU I have discovered a passion for web development. I have worked with HTML and CSS for over a year and started learning JavaScript over the past 6 months. I am particitpating in the Global Career Accelerator program where I will earn a certification in HTML & CSS and JavaScript & Web Development. I have experience using tools such as Webflow, Figma, and Balsamiq. Check out my pinned repositories to see what I've been working on!
 - ✨ My Behance Profile: https://www.behance.net/jessicapiper2
 - ✨ My CodePen Profile: https://codepen.io/jpiper5
 - ✨ My LinkedIn Profile: www.linkedin.com/in/jessica-piper-5a041b2b0
@@ -36,8 +36,3 @@ I chose to update my website for Role Model to fit the requirements of this proj
 ![A website titles "Street Tacos" with an image of two corn tortilla tacos and a lime](images/recipeImg2.png)
 The two websites above are fixed but I also have experience with creating responsive websites. This website shows a small, medium, and large viewport with a transition between breakpoints.
 - Link to repository: https://github.com/jpiper5/recipe
-
-## Figma Projects 
-- https://www.figma.com/design/snf9Jf7h1pgJ18JzZKOkuw/user-flow?m=auto&t=8Ov5u5NXJEv0VnHS-1
-- https://www.figma.com/design/KdIqvUf1Fpu0gu5b9kiMiZ/Untitled-(Copy)?node-id=0-1&t=3rhUKvtSEdor17kt-1
-- https://www.figma.com/design/ZpJRL4Phj8EgCcOHkdecVp/home-page-dutch?node-id=0-1&t=cm1zmqPZGQsIvSYK-1
